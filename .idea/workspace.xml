@@ -29,8 +29,8 @@
       <file leaf-file-name="XiaoweiTaskTwo.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/XiaoweiTaskTwo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1254">
-              <caret line="62" column="31" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
+            <state relative-caret-position="19">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -247,7 +247,7 @@
       <workItem from="1488891822391" duration="14207000" />
       <workItem from="1488983816402" duration="7925000" />
       <workItem from="1488991908774" duration="104000" />
-      <workItem from="1488992471972" duration="450000" />
+      <workItem from="1488992471972" duration="643000" />
     </task>
     <task id="LOCAL-00001" summary="任务二">
       <created>1488890612452</created>
@@ -347,11 +347,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488992783194</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="task-two">
+      <created>1488992927732</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1488992927732</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29391000" />
+    <option name="totallyTimeSpent" value="29584000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -531,8 +538,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/XiaoweiTaskTwo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="62" column="31" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
+        <state relative-caret-position="19">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           <folding />
         </state>
       </provider>
