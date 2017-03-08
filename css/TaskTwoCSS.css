@@ -1,4 +1,214 @@
-h1
+body
 {
-    background-color: deepskyblue;
+    background: black;
+}
+
+h3
+{
+    color: #AAAAAA;
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
+p
+{
+    font-size: 0.9em;
+}
+
+header
+{
+    height: 54px;
+    width:70%;
+    background: #222222;
+    margin: 0 auto;
+}
+
+#logo
+{
+    height: 70px;
+    float: left;
+}
+
+#navigation
+{
+    float: right;
+}
+
+#navigation li
+{
+    float: left;
+    color: black;
+    margin-left: 15px;
+    margin-right: 20px;
+}
+
+#navigation li a
+{
+    color: white;
+    text-decoration: none;
+}
+
+#navigation li:nth-child(4) a
+{
+    color: gray;
+}
+
+article
+{
+    width: 70%;
+    background: #CCCCCC;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.part
+{
+    width: 95%;
+    background: white;
+    margin: 15px auto;
+    border: 1px outset #AAAAAA;
+    padding: 20px;
+}
+
+.part p
+{
+    text-indent: 2em;
+}
+
+.author {
+    color: #AAAAAA;
+    margin: 5px 0;
+    font-size: small;
+}
+
+#parttwolist
+{
+    list-style: none;
+}
+
+.goodpicture
+{
+    height: 120px;
+    width: 120px;
+    margin: 15px 50px;
+    border: 1px solid #AAAAAA;
+    padding: 5px;
+    text-align: center;
+}
+
+.goodpicture img
+{
+    width: 100px;
+    margin-top: 10px;
+}
+
+#partlast table
+{
+    width: 100%;
+    text-align: left;
+    font-size: small;
+}
+
+#partlast table
+{
+    width: 100%;
+    text-align: left;
+    font-size: small;
+    line-height: 1.5em;
+}
+
+#partlast thead
+{
+    background-color: #222222;
+    color: white;
+}
+
+#partlast tfoot
+{
+    background-color: gray;
+}
+
+.sidebar
+{
+    width: 95%;
+    background: white;
+    margin: 30px auto 10px;
+    border: 1px outset #AAAAAA;
+    padding: 20px;
+    font-size: small;
+}
+
+.sidebar #title
+{
+    margin-top: 0;
+    margin-bottom: 0;
+    border-left: 2px solid #AAAAAA;
+    padding-left: 10px;
+    font-size: 1em;
+}
+
+#register
+{
+    width: 100%;
+}
+
+#register .subject
+{
+    overflow: hidden;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#register .left
+{
+    margin-right: 1%;
+    float: left;
+    width: 32%;
+    text-align: right;
+}
+
+#register .right
+{
+    margin-left: 1%;
+    float: right;
+    width: 65%;
+    text-align: left;
+}
+
+#register .explain
+{
+    color: #AAAAAA;
+    margin-bottom: 15px;
+}
+
+#register .submit
+{
+    text-align: center;
+}
+
+#register .submit input
+{
+    color: white;
+    border: hidden;
+    border-radius: 10px;
+    font-size: 1em;
+    line-height: 3em;
+    background-color: royalblue;
+    width: 100%;
+}
+
+footer
+{
+    height: 80px;
+    width: 70%;
+    background: black;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#copyright
+{
+    padding: 20px;
+    font-size: small;
 }
