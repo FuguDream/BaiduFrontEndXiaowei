@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d831f734-8d01-467e-b2e1-6c3c0452477b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/baidulogo.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XiaoweiTaskTwo.html" afterPath="$PROJECT_DIR$/XiaoweiTaskTwo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/TaskTwoCSS.css" afterPath="$PROJECT_DIR$/css/TaskTwoCSS.css" />
     </list>
     <ignored path="BaiduFrontEndXiaowei.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="XiaoweiTaskTwo.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="XiaoweiTaskTwo.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/XiaoweiTaskTwo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="266">
+              <caret line="85" column="14" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TaskTwoCSS.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TaskTwoCSS.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/TaskTwoCSS.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="199" column="0" selection-start-line="199" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
+            <state relative-caret-position="470">
+              <caret line="194" column="21" selection-start-line="194" selection-start-column="21" selection-end-line="194" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -65,8 +63,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/XiaoweiTaskOne.html" />
-        <option value="$PROJECT_DIR$/XiaoweiTaskTwo.html" />
         <option value="$PROJECT_DIR$/css/TaskTwoCSS.css" />
+        <option value="$PROJECT_DIR$/XiaoweiTaskTwo.html" />
       </list>
     </option>
   </component>
@@ -77,8 +75,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="246" />
-    <option name="y" value="8" />
+    <option name="x" value="405" />
+    <option name="y" value="101" />
     <option name="width" value="1634" />
     <option name="height" value="1056" />
   </component>
@@ -257,7 +255,7 @@
       <workItem from="1488890182733" duration="337000" />
       <workItem from="1488890549450" duration="1259000" />
       <workItem from="1488891822391" duration="14207000" />
-      <workItem from="1488983816402" duration="7291000" />
+      <workItem from="1488983816402" duration="7777000" />
     </task>
     <task id="LOCAL-00001" summary="任务二">
       <created>1488890612452</created>
@@ -322,11 +320,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488990945955</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="task-two">
+      <created>1488991118698</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1488991118698</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28203000" />
+    <option name="totallyTimeSpent" value="28689000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -338,7 +343,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="246" y="8" width="1634" height="1056" extended-state="0" />
+    <frame x="405" y="101" width="1634" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29699248" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -475,18 +480,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoweiTaskTwo.html">
+    <entry file="file://$PROJECT_DIR$/css/TaskTwoCSS.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="470">
+          <caret line="194" column="21" selection-start-line="194" selection-start-column="21" selection-end-line="194" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/TaskTwoCSS.css">
+    <entry file="file://$PROJECT_DIR$/XiaoweiTaskTwo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="199" column="0" selection-start-line="199" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
+        <state relative-caret-position="266">
+          <caret line="85" column="14" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
           <folding />
         </state>
       </provider>
