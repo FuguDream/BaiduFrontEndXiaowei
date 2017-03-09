@@ -15,7 +15,7 @@ p
     font-size: 0.9em;
 }
 
-header
+.header
 {
     height: 54px;
     width:70%;
@@ -198,7 +198,7 @@ article
 }
 
 
-footer
+.footer
 {
     height: 80px;
     width: 70%;
