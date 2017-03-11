@@ -1,0 +1,70 @@
+div
+{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.outbox
+{
+    width: 100%;
+    border: 1px solid #999;
+    padding: 20px;
+    background-color: #eee;
+}
+
+.outbox:after
+{
+    display: block;
+    content: '';
+    clear: both;
+    line-height: 0;
+    visibility: hidden;
+}
+
+.leftbox
+{
+    margin: 10px;
+    width: 200px;
+    border: 1px solid #999;
+    padding: 10px;
+    background-color: white;
+    float: left;
+}
+
+.rightbox
+{
+    margin: 10px;
+    width: 120px;
+    border: 1px solid #999;
+    padding: 10px;
+    background-color: white;
+    float: right;
+}
+
+.mainbox
+{
+    margin: 10px 150px 10px 230px;
+    border: 1px solid #999;
+    padding: 10px;
+    background-color: white;
+}
+
+.logo
+{
+    margin: 10px;
+    width: 80px;
+    height: 80px;
+    border: 1px solid #999;
+    padding: 10px;
+    background-color: #eee;
+    text-align: center;
+    font-size: 0.9em;
+    float: left;
+}
+
+.teamname
+{
+    margin: 10px 5px;
+    float: left;
+}
