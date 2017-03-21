@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d831f734-8d01-467e-b2e1-6c3c0452477b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoweiTaskFive.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/TaskFiveCSS.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BaiduFrontEndXiaowei.iws" />
@@ -307,7 +305,7 @@
       <workItem from="1489248433802" duration="439000" />
       <workItem from="1489312951214" duration="55000" />
       <workItem from="1489317031583" duration="3982000" />
-      <workItem from="1490103164476" duration="7325000" />
+      <workItem from="1490103164476" duration="7344000" />
     </task>
     <task id="LOCAL-00001" summary="任务二">
       <created>1488890612452</created>
@@ -484,11 +482,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489321221738</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="task-four">
+      <created>1490110604082</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1490110604082</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49014000" />
+    <option name="totallyTimeSpent" value="49033000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
