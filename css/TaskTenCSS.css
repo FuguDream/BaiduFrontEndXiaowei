@@ -1,0 +1,59 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+.flexparent
+{
+    display: flex;
+    background-color: #eeeeee;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+[class^="flex-"]
+{
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 10px 0;
+    width: 150px;
+}
+
+.flex-one
+{
+    height: 120px;
+    border: solid #ff0000 1px;
+}
+
+.flex-two
+{
+    height: 100px;
+    border: solid #ff0000 1px;
+}
+
+.flex-three
+{
+    height: 40px;
+    border: solid #ff0000 1px;
+}
+
+.flex-four
+{
+    height: 200px;
+    border: solid #0000ff 1px;
+}
+
+@media all and (max-width: 640px){
+    .flexparent
+    {
+        align-items: flex-start;
+    }
+
+    .flex-four
+    {
+        -ms-flex-order: -1;
+        order: -1;
+    }
+}

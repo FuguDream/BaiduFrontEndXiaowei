@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d831f734-8d01-467e-b2e1-6c3c0452477b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoweiTaskEight.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/TaskEightCSS.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XiaoweiTaskTen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/TaskTenCSS.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BaiduFrontEndXiaowei.iws" />
@@ -27,21 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="XiaoweiTaskEight.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XiaoweiTaskEight.html">
+      <file leaf-file-name="XiaoweiTaskTen.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XiaoweiTaskTen.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="76">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TaskEightCSS.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/TaskEightCSS.css">
+      <file leaf-file-name="TaskTenCSS.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/TaskTenCSS.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="361">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -78,6 +78,8 @@
         <option value="$PROJECT_DIR$/XiaoweiTaskSix.html" />
         <option value="$PROJECT_DIR$/XiaoweiTaskEight.html" />
         <option value="$PROJECT_DIR$/css/TaskEightCSS.css" />
+        <option value="$PROJECT_DIR$/XiaoweiTaskTen.html" />
+        <option value="$PROJECT_DIR$/css/TaskTenCSS.css" />
       </list>
     </option>
   </component>
@@ -88,8 +90,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1042" />
-    <option name="y" value="38" />
+    <option name="x" value="937" />
     <option name="width" value="1112" />
     <option name="height" value="1038" />
   </component>
@@ -164,21 +165,18 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\BaiduFrontEndXiaowei\BaiduFrontEndXiaowei\img\tasksix" />
+      <recent name="F:\BaiduFrontEndXiaowei\BaiduFrontEndXiaowei" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\BaiduFrontEndXiaowei\BaiduFrontEndXiaowei\css" />
       <recent name="F:\BaiduFrontEndXiaowei\BaiduFrontEndXiaowei" />
       <recent name="F:\BaiduFrontEndXiaowei\BaiduFrontEndXiaowei\RandomQuote" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\BaiduFrontEndXiaowei\BaiduFrontEndXiaowei\img\tasksix" />
-      <recent name="F:\BaiduFrontEndXiaowei\BaiduFrontEndXiaowei" />
-    </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.XiaoweiTaskEight.html">
+  <component name="RunManager" selected="JavaScript Debug.XiaoweiTaskTen.html">
     <configuration default="false" name="XiaoweiTaskTwo.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BaiduFrontEndXiaowei/XiaoweiTaskTwo.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="XiaoweiTaskFour.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BaiduFrontEndXiaowei/XiaoweiTaskFour.html">
       <method />
     </configuration>
     <configuration default="false" name="XiaoweiTaskFive.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BaiduFrontEndXiaowei/XiaoweiTaskFive.html">
@@ -188,6 +186,9 @@
       <method />
     </configuration>
     <configuration default="false" name="XiaoweiTaskEight.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BaiduFrontEndXiaowei/XiaoweiTaskEight.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="XiaoweiTaskTen.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BaiduFrontEndXiaowei/XiaoweiTaskTen.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -245,18 +246,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.XiaoweiTaskTwo.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.XiaoweiTaskFour.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.XiaoweiTaskFive.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.XiaoweiTaskSix.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.XiaoweiTaskEight.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.XiaoweiTaskFive.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.XiaoweiTaskSix.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.XiaoweiTaskEight.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.XiaoweiTaskTen.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.XiaoweiTaskEight.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.XiaoweiTaskSix.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.XiaoweiTaskFive.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.XiaoweiTaskTwo.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.XiaoweiTaskFour.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.XiaoweiTaskTen.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.XiaoweiTaskEight.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.XiaoweiTaskSix.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.XiaoweiTaskFive.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.XiaoweiTaskTwo.html" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +294,7 @@
       <workItem from="1490798954497" duration="8262000" />
       <workItem from="1490969914613" duration="6680000" />
       <workItem from="1491313592883" duration="6740000" />
-      <workItem from="1491396047305" duration="2985000" />
+      <workItem from="1491396047305" duration="7047000" />
     </task>
     <task id="LOCAL-00001" summary="任务二">
       <created>1488890612452</created>
@@ -491,11 +492,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491321044163</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="task-eight finished">
+      <created>1491399042727</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1491399042727</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89602000" />
+    <option name="totallyTimeSpent" value="93664000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -507,7 +515,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1042" y="38" width="1112" height="1038" extended-state="0" />
+    <frame x="937" y="0" width="1112" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24487896" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -548,27 +556,14 @@
     <MESSAGE value="task-four" />
     <MESSAGE value="task-five" />
     <MESSAGE value="task-six finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="task-six finished" />
+    <MESSAGE value="task-eight finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="task-eight finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/TaskFiveCSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XiaoweiTaskThree.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/TaskThreeCSS.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -890,6 +885,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/TaskEightCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/XiaoweiTaskEight.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -898,10 +901,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/TaskEightCSS.css">
+    <entry file="file://$PROJECT_DIR$/XiaoweiTaskTen.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        <state relative-caret-position="76">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/TaskTenCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           <folding />
         </state>
       </provider>
