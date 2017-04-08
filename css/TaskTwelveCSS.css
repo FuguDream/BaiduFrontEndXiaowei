@@ -1,0 +1,133 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+[class^="part-"]
+{
+    margin: 40px;
+}
+
+.part-one table
+{
+    text-align: left;
+    font-family: "Microsoft Yahei";
+}
+
+.part-one table thead
+{
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.part-one table tbody tr:nth-child(even)
+{
+    background-color: #cccccc;
+}
+
+.part-one table tbody tr:nth-child(odd)
+{
+    background-color: #ffffff;
+}
+
+.part-one table tbody tr:nth-child(-n+3)
+{
+    color: #ff0000;
+}
+
+.part-two input
+{
+    width: 100px;
+    transition: 1s width;
+}
+
+.part-two input:focus
+{
+    width: 160px;
+}
+
+.part-three
+{
+    width: 400px;
+    height: 300px;
+    position: relative;
+    overflow: hidden;
+}
+
+.banner
+{
+    width: 300%;
+    height: 100%;
+    list-style: none;
+    word-spacing: 0;
+    letter-spacing: 0;
+    position: relative;
+    left: 0;
+    transition: 0.5s left;
+}
+
+.banner li
+{
+    width: 400px;
+    height: 300px;
+    float: left;
+}
+
+.banner li:nth-child(1)
+{
+    background-color: #ff0000;
+}
+
+.banner li:nth-child(2)
+{
+    background-color: #00ff00;
+}
+
+.banner li:nth-child(3)
+{
+    background-color: #0000ff;
+}
+
+.order
+{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    list-style-type: none;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.order li
+{
+    margin: 0 10px 5px 0;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    background-color: #ffffff;
+    opacity: 0.5;
+    float: left;
+}
+
+.order li a
+{
+    color: #000000;
+    text-decoration: none;
+}
+
+#pic-one:target~.banner
+{
+    left: 0;
+}
+
+#pic-two:target~.banner
+{
+    left: -100%;
+}
+
+#pic-three:target~.banner
+{
+    left: -200%;
+}
